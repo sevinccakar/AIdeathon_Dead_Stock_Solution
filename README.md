@@ -148,7 +148,11 @@ npm run dev
 
 ## 🏆 Competition
 
-This project was developed as part of the **AIdeathon 2026 competition**, focusing on the use of artificial intelligence to create practical solutions for e-commerce and inventory management.
+This project was developed as part of the **AIdeathon 2026 competition** and achieved **1st Place**.
+
+🥇 **1st Place – AIdeathon 2026**
+
+The project focuses on using artificial intelligence to create practical solutions for e-commerce and deadstock management.
 
 ## 👥 Team
 

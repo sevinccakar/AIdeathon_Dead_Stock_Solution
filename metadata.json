@@ -1,0 +1,5 @@
+{
+  "name": "Deadstock AI Manager",
+  "description": "An intelligent dashboard for e-commerce platforms to identify, analyze, and manage deadstock inventory using Gemini AI recommendations.",
+  "requestFramePermissions": []
+}
